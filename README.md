@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/mriyaz/advice-generator-app-challenge)
-- [Live Site URL](https://advice-generator-app-challenge-lyart.vercel.app/)
+- [Live Site URL](https://advice-generator-app-challenge-1.vercel.app/)
 
 
 ## My process
